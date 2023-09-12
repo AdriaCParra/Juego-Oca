@@ -1,3 +1,3 @@
 # Juego-Oca
-> Functiona La Oca game.
+> Functional La Oca game.
 *Very basic code using conditionals and loops.*
