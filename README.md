@@ -1,2 +1,3 @@
 # Juego-Oca
-Juego funcional de la Oca en Java
+Functiona La Oca game.
+Very basic code using conditionals and loops.
